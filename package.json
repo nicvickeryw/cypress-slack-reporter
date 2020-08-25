@@ -73,7 +73,7 @@
     "cypress-cucumber-preprocessor": "2.5.5",
     "cypress-multi-reporters": "1.4.0",
     "dotenv": "8.2.0",
-    "globby": "9.2.0",
+    "globby": "11.0.1",
     "husky": "4.2.5",
     "jest": "26.4.2",
     "jest-junit": "10.0.0",
